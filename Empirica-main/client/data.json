@@ -1,0 +1,259 @@
+[
+    {
+        "name": "Colgate",
+        "category": "toothpaste",
+        "low": {
+            "price": 1.99,
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dgccztjql/image/upload/v1704647590/SimPPL/colgate1_rlopaq.png"
+
+        },
+        "high": {
+            "price": 2.99,
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dgccztjql/image/upload/v1704647976/SimPPL/colgate2_n5cf80.png"
+        },
+        "warrants": [
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704638438/SimPPL/Gum_Protection_onbo0t.png",
+                "description": "Advanced Cavity Protection for Lasting Oral Heatlh",
+                "price": 2.99
+            },
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704638434/SimPPL/Fresh_Breath_he5jws.png",
+                "description": "Fresh Dreath Assurance with Enhanced Whitening",
+                "price": 5.99
+            },
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704638437/SimPPL/Healthy_Gum_domd4m.png",
+                "description": "Gentle Care for Sensitivity and Healthy Gums",
+                "price": 3.99
+            }
+            
+        ]
+    },
+    {
+        "name": "Head and Shoulders",
+        "category": "shampoo",
+        "low": {
+            "price": 1.99,
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dgccztjql/image/upload/v1704647583/SimPPL/shampoo2_pfzbjz.png"
+
+        },
+        "high": {
+            "price": 2.99,
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dgccztjql/image/upload/v1704647567/SimPPL/shampoo1_wz3rwu.png"
+        },
+        "warrants": [
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704641615/SimPPL/Scalp_jwgm8i.png",
+                "description": "Healthy Scalp Assurance",
+                "price": 4.99
+            },
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704641616/SimPPL/Smooth_Hair_pgu3m4.png",
+                "description": "Silky Smooth Hair Guarantee",
+                "price": 5.99
+            },
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704641616/SimPPL/Dandruff_Free_d4lmto.png",
+                "description": "Ultimate Dandruff Defense",
+                "price": 7.99
+            }
+        ]
+    },
+    {
+        "name": "Dove",
+        "category": "soap",
+        "low": {
+            "price": 1.99,
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dgccztjql/image/upload/v1704647984/SimPPL/dove2_txh7zk.png"
+
+        },
+        "high": {
+            "price": 2.99,
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dgccztjql/image/upload/v1704647574/SimPPL/dove1_ne6gxx.png"
+        },
+        "warrants": [
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704642832/SimPPL/Gentle_Skin_hyzv7f.png",
+                "description": "Gentle Skin Nourishment",
+                "price": 1.99
+            },
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704642807/SimPPL/Moisture_Lock_w1exrc.png",
+                "description": "Luxurious Moisture Lock",
+                "price": 2.99
+            },
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704642812/SimPPL/Fragrance_o56tpx.png",
+                "description": "Irresistible Fragrance Bliss",
+                "price": 4.99
+            }
+        ]
+    },
+    {
+        "name": "Nivea",
+        "category": "shower gel",
+        "low": {
+            "price": 1.99,
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dgccztjql/image/upload/v1704647516/SimPPL/nivea1_hhkltv.png"
+
+        },
+        "high": {
+            "price": 2.99,
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dgccztjql/image/upload/v1704647494/SimPPL/nivea2_lnimpe.png"
+        },
+        "warrants": [
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704641616/SimPPL/Smooth_Hair_pgu3m4.png",
+                "description": "Invigorating Freshness Boost",
+                "price": 3.99
+            },
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704642807/SimPPL/Moisture_Lock_w1exrc.png",
+                "description": "Moisture Surge for Supple Skin",
+                "price": 4.99
+            },
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704642812/SimPPL/Fragrance_o56tpx.png",
+                "description": "Energizing Aroma Revival",
+                "price": 6.99
+            }
+        ]
+    },
+    {
+        "name": "Axe",
+        "category": "deodorant",
+        "low": {
+            "price": 1.99,
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dgccztjql/image/upload/v1704647451/SimPPL/axe2_p7vrxy.png"
+
+        },
+        "high": {
+            "price": 2.99,
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dgccztjql/image/upload/v1704647427/SimPPL/axe1_b4gk4g.png"
+        },
+        "warrants": [
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704644209/SimPPL/24h_fjhthc.png",
+                "description": "24-Hour Odor Protection",
+                "price": 2.49
+            },
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704642812/SimPPL/Fragrance_o56tpx.png",
+                "description": "Confidence-Boosting Fragrance",
+                "price": 3.49
+            },
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704641616/SimPPL/Smooth_Hair_pgu3m4.png",
+                "description": "Stay Fresh All Day",
+                "price": 5.49
+            }
+        ]
+    },
+    {
+        "name": "Gillette",
+        "category": "shaving cream",
+        "low": {
+            "price": 1.99,
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dgccztjql/image/upload/v1704647466/SimPPL/gillette2_sgxlmk.png"
+
+        },
+        "high": {
+            "price": 2.99,
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dgccztjql/image/upload/v1704647516/SimPPL/gillette1_s6btta.png"
+        },
+        "warrants": [
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704644845/SimPPL/smooth_skin_ksys4o.png",
+                "description": "Smooth Glide Razor Comfort",
+                "price": 3.99
+            },
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704644843/SimPPL/precision_ri0hli.png",
+                "description": "Precision Shaving Performance",
+                "price": 4.99
+            },
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704644844/SimPPL/aftercare_vtajjm.png",
+                "description": "Soothing After-Shave Care",
+                "price": 6.99
+            }
+        ]
+    },
+    {
+        "name": "Dettol",
+        "category": "hand sanitizer",
+        "low": {
+            "price": 1.99,
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dgccztjql/image/upload/v1704647526/SimPPL/dettol1_ogu27p.png"
+
+        },
+        "high": {
+            "price": 2.99,
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dgccztjql/image/upload/v1704647527/SimPPL/dettol2_fafozm.png"
+        },
+        "warrants": [
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704643877/SimPPL/Germs_jqbiex.png",
+                "description": "99.9% Germ-Killing Assurance",
+                "price": 5.99
+            },
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704643326/SimPPL/Anti_Hydration_zr6xye.png",
+                "description": "Quick-Drying Formula",
+                "price": 6.99
+            },
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704643871/SimPPL/Non_sticky_ghmpxg.png",
+                "description": "Non-Sticky Hand Hygiene",
+                "price": 8.99
+            }
+        ]
+    },
+    {
+        "name": "Vaseline",
+        "category": "lotion",
+        "low": {
+            "price": 1.99,
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dgccztjql/image/upload/v1704647525/SimPPL/vaseline2_d9g8mz.png"
+
+        },
+        "high": {
+            "price": 2.99,
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dgccztjql/image/upload/v1704647584/SimPPL/vaseline1_xvhyx4.png"
+        },
+        "warrants": [
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704642807/SimPPL/Moisture_Lock_w1exrc.png",
+                "description": "Intensive Moisture Lock",
+                "price": 4.49
+            },
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704642832/SimPPL/Gentle_Skin_hyzv7f.png",
+                "description": "Silky Smooth Skin Guarantee",
+                "price": 5.99
+            },
+            {
+                "icon": "https://res.cloudinary.com/dgccztjql/image/upload/v1704643326/SimPPL/Anti_Hydration_zr6xye.png",
+                "description": "Non-Greasy Hydration",
+                "price": 7.49
+            }
+        ]
+    }
+]
