@@ -2,7 +2,7 @@
 
 ## Planning the Feature
 
-In developing the warrants feature, we approached the initial planning phase as a collaborative effort among the three of us (Archit, Pratyay, and Veer). We discussed the feature's requirements initially, identifying the key aspects that needed attention, considering both the user experience as well as the technical implementation.
+In developing the warrants feature, we approached the planning phase as a collaborative effort among the three of us (Archit, Pratyay, and Veer). We discussed the feature's requirements initially, identifying the key aspects that needed attention, considering both the user experience as well as the technical implementation.
 
 ## Key Questions
 
@@ -52,8 +52,6 @@ Warrants empower users as well, addressing a common weakness that arises when co
 
 There are compromises involved in putting such a feature into practice. Achieving the ideal balance between functionality and user-friendliness is essential. An enjoyable virtual marketplace experience requires an intuitive interface, but this shouldn't come at the expense of the richness and genuineness that the warrants feature seeks to offer.
 
-## Screenshots
-
 ## Installation
 
 -   Client
@@ -70,15 +68,3 @@ There are compromises involved in putting such a feature into practice. Achievin
     -   `empirica` - Run in the root directory of the project
 
 ---
-
-TODO:
-
-1. Remove unnecessary comments
-2. Remove console logs
-3. Update CSS on Page4 + Update Icon(s)
-4. Validation Checks 
-5. Background change + Update according to color palettes
-6. Make Warrant Dynamic
-7. Create Video
-8. Combine all buttons into a single JSX and fix imports
-9. Fix Modal Cards + Shadow
